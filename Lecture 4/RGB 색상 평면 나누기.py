@@ -1,3 +1,6 @@
+import numpy as np
+import cv2
+
 src = cv2. imread('candies.png' , cv2.IMREAD_COLOR)
 
 # 컬러 영상 속성 확인
